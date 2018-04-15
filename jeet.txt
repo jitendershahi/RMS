@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master branch
 =======
 new branch
 >>>>>>> newbranch
+=======
+master branch
+
+mybranch editor
+>>>>>>> mybranch
